@@ -1,0 +1,10 @@
+SERVER_PORT = 8000
+SERVER_ADDRESS = "127.0.0.1"
+
+
+class MISSION_STATE:
+    ANALYSING = 1
+    FAILED = 2
+
+
+CACHE_POSITION = "./cache/"
